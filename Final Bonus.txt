@@ -1,5 +1,6 @@
 This document is to record Zhang's jokes and stories mentioned during the course.
 According to Zhang, the jokes and stories will be a part of the exam content, which offer some bonus points as a reward.
+Ricky Monkey(after the course ends I will tell his true name) is invited to help contribute to maintain this file. Thank you Ricky Monkey!
 
 2020/9/10 lec
 - What is the last time when Zhang actually programed? 3 years ago.
