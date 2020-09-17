@@ -4,5 +4,12 @@ Ricky Monkey(after the course ends I will tell his true name) is invited to help
 
 2020/9/10 lec
 - What is the last time when Zhang actually programed? 3 years ago.
-- The founder of C++ is Bjarne Stroustrup. From his name we can tell that he is from North Europe(Denmark, in fact).
-- The founder of Java is James Gosling, whose family name is the same as the main actor in La la land Ryan Gosling.
+- The founder of C++ is Bjarne Stroustrup. From his name we can tell that he is from North Europe (Denmark, in fact).
+- The founder of Java is James Gosling, whose family name is the same as the main actor in La la land Ryan Gosling (officially recognized as the FIRST story).
+
+2020/9/17 lec
+-
+-
+-
+-
+
